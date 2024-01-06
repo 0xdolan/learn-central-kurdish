@@ -1,5 +1,9 @@
 <div dir="rtl" style="font-family:vazirmatn" >
 
+| [Under Development](#) |                | [ڕۆژانە نوێ دەکرێتەوە](#) |
+| :--------------------: | :------------: | :-----------------------: |
+|                        | 🛑 ℹ️ 🔥 ℹ️ 🛑 |                           |
+
 # فێرگەی زمانی کوردی
 
 <img src="./images/Central_Kurdish-Sorani_in_Naskh.png" width="50%">
